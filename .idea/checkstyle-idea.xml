@@ -6,7 +6,7 @@
     <copyLibs>true</copyLibs>
     <option name="thirdPartyClasspath" />
     <option name="activeLocationIds">
-      <option value="1803f831-7143-480b-86e3-0bc6524769c5" />
+      <option value="72031ed3-6a1f-4673-86db-ca4616221ef5" />
     </option>
     <option name="locations">
       <list>
@@ -20,8 +20,8 @@
             </map>
           </option>
         </ConfigurationLocation>
-        <ConfigurationLocation id="1803f831-7143-480b-86e3-0bc6524769c5" type="LOCAL_FILE" scope="All" description="checkstyle_java_core">
-          $PROJECT_DIR$/../../google_checks.xml
+        <ConfigurationLocation id="72031ed3-6a1f-4673-86db-ca4616221ef5" type="LOCAL_FILE" scope="All" description="java_core_check">
+          $USER_HOME$/Downloads/Telegram Desktop/google_checks.xml
           <option name="properties">
             <map>
               <entry key="org.checkstyle.google.suppressionxpathfilter.config" value="" />
