@@ -1,16 +1,15 @@
 package org.example.homework.third;
 
-import org.example.homework.third.dz.ex1.Birch;
-import org.example.homework.third.dz.ex1.Pine;
-import org.example.homework.third.dz.ex1.Spruce;
-import org.example.homework.third.dz.ex1.Tree;
-import org.example.homework.third.dz.ex2.Factory;
-import org.example.homework.third.dz.ex2.IphonePhone;
-import org.example.homework.third.dz.ex2.SamsungPhone;
-import org.example.homework.third.dz.ex3.Pyramid1;
-import org.example.homework.third.dz.ex3.Pyramid3;
-import org.example.homework.third.dz.ex5.City;
-import org.example.homework.third.dz.ex5.House;
+import org.example.homework.third.mydz.ex1.Birch;
+import org.example.homework.third.mydz.ex1.Pine;
+import org.example.homework.third.mydz.ex1.Spruce;
+import org.example.homework.third.mydz.ex1.Tree;
+import org.example.homework.third.mydz.ex2.Factory;
+import org.example.homework.third.mydz.ex2.IphonePhone;
+import org.example.homework.third.mydz.ex2.SamsungPhone;
+import org.example.homework.third.mydz.ex3.Pyramid1;
+import org.example.homework.third.mydz.ex5.City;
+import org.example.homework.third.mydz.ex5.House;
 
 public class Homework3 {
     public static void main(String[] args) {
